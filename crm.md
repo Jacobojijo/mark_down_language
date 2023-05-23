@@ -1,31 +1,28 @@
-# [Customer Relationship Management application]()
+# [Customer Relationship Management application(CRM)]()
 
-Welcome to the [crowdfunding application](https://crowdfunding-ojijo.netlify.app/) that is connected to blockchain and allows users the capability to create, view and donate to various campaigns.
+Welcome to the [CRM]() web application that manages customer details  by registering, updating and deleting customer records.
 
 
-![crowdfunding](https://github.com/Jacobojijo/mark_down_language/blob/main/crowd.png?raw=true)
+![CRM](https://cdn.majorel.com/wp-content/uploads/2018/04/01140300/Trends-Digitalisierung-CRM-2018-1024x591.jpg)
 
-You can [preview the complete demo app here](https://crowdfunding-ojijo.netlify.app/)
 
-To create, view or fund campaigns, press the **connect** button  on the top right corner of the application to pair the application to your etherium metamask wallet 
+## Techstack
+* Django
+* MySQL
+* Bootstrap
 
 
 ## How to use this repo
 To get started run the following commands on your local environment
 
 * clone the repo your local environment
-* cd into the clent directory and run the following commands:
+* Run the following commands the project's root directory
 
-```node
-    npm install
-    npm run dev
+```python
+    python3 manage.py runserver
 ```
 
-To build this app for production, run the following command: 
 
-```node
-    npm run build
-```
 
 For any issues or problems concerning the above project contact me at [jacobojijo2017@gmail.com](mailto:jacobojijo2017@gmail.com)
 
