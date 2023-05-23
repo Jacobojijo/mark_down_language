@@ -1,25 +1,35 @@
 # [AI Image Generation App](https://ai-imgegenerator.netlify.app/)
 
-Welcome to the [ai image generation application](https://ai-imgegenerator.netlify.app/) that is connected to blockchain and allows users the capability to create, view and donate to various campaigns.
+Welcome to the [ai image generation application](https://ai-imgegenerator.netlify.app/),  a full stack AI Image Generation app that uses openai model to generates images, art and beautiful designs from text inputs.
 
 
-![crowdfunding](https://github.com/Jacobojijo/mark_down_language/blob/main/crowd.png?raw=true)
+![image-generator](https://github.com/Jacobojijo/mark_down_language/blob/main/ai-image.png?raw=true)
 
-You can [preview the complete demo app here](https://crowdfunding-ojijo.netlify.app/)
 
-To create, view or fund campaigns, press the **connect** button  on the top right corner of the application to pair the application to your etherium metamask wallet 
+You can [preview the complete demo app here](https://ai-imgegenerator.netlify.app/)
+
+To create an image/art/design, press **create** button on the top right corner.
+Your created image will be displayed in the community showcase on the home page
 
 
 ## How to use this repo
 To get started run the following commands on your local environment
 
 * clone the repo your local environment
-* cd into the clent directory and run the following commands:
+* cd into the server directory and run the following commands:
 
 ```node
     npm install
-    npm run dev
+    npm start
 ```
+
+* cd into the client directory and run the following commands:
+
+```node
+    npm install
+    npm start
+```
+
 
 To build this app for production, run the following command: 
 
