@@ -1,6 +1,8 @@
 # [web3 crowdfunding application](https://crowdfunding-ojijo.netlify.app/)
 
-Welcome to the [crowdfunding application](https://crowdfunding-ojijo.netlify.app/) that is connected to blockchain and allows users the capability to view and donate to various campaigns.
+Welcome to the [crowdfunding application](https://crowdfunding-ojijo.netlify.app/) that is connected to blockchain and allows users the capability to create, view and donate to various campaigns.
+
+
 ![crowdfunding](https://github.com/Jacobojijo/mark_down_language/blob/main/crowd.png?raw=true)
 
 You can [preview the complete demo app here](https://crowdfunding-ojijo.netlify.app/)
